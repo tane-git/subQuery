@@ -1,8 +1,8 @@
 specVersion: 0.2.0
-name: mySubQ
+name: subQueryStarter
 version: 0.0.4
-description: Doing the quick start guide
-repository: https://github.com/tane-git/subQuery
+description: This project can be use as a starting po...
+repository: https://github.com/subquery/subql-starter
 schema:
   file: ./schema.graphql
 network:

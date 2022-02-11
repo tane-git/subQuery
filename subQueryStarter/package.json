@@ -1,7 +1,7 @@
 {
-  "name": "mySubQ",
+  "name": "subQueryStarter",
   "version": "0.0.4",
-  "description": "Doing the quick start guide",
+  "description": "This project can be use as a starting po...",
   "main": "dist/index.js",
   "scripts": {
     "build": "tsc -b",
